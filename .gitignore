@@ -1,0 +1,13 @@
+.env
+!.env.example
+model.env
+data/chroma/
+data/sessions/
+data/web_cache/
+data/student_profile.json
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.streamlit/secrets.toml
